@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title> Uday Param </title>
-</head>
-<body>
-<h1> Uday Param </h1>
-</body>
